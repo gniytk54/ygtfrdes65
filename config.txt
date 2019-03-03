@@ -1,0 +1,6 @@
+owner=486141054677155860
+prefix=6
+game=Type 6play
+stayinchannel=true
+songinstatus=false
+token=NTUxODU4NTQ4MTAwMDM4NjU2.D13F4A.3wTTOMmI8a-2GcGjHNnZVgpsgyM 
